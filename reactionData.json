@@ -1,0 +1,241 @@
+{"reactions":
+    {
+        "simple_reactions":[
+            {
+                "reaction_name":"Caesarium Cadmide",
+                "reaction_input":["Caesium", "Cadmium"]
+            },
+            {
+                "reaction_name":"Carbon Polymers",
+                "reaction_input":["Silicates", "Hydrocarbons"]
+            },
+            {
+                "reaction_name":"Ceramic Powder",
+                "reaction_input":["Silicates", "Evaporite Deposits"]
+            },
+            {
+                "reaction_name":"Crystallite Alloy",
+                "reaction_input":["Cadmium", "Cobalt"]
+            },
+            {
+                "reaction_name":"Dysporite",
+                "reaction_input":["Dysprosium", "Mercury"]
+            },
+            {
+                "reaction_name":"Fernite Alloy",
+                "reaction_input":["Vanadium", "Scandium"]
+            },
+            {
+                "reaction_name":"Ferrofluid",
+                "reaction_input":["Dysprosium", "Hafnium"]
+            },
+            {
+                "reaction_name":"Fluxed Condensates",
+                "reaction_input":["Thulium", "Neodymium"]
+            },
+            {
+                "reaction_name":"Hexite",
+                "reaction_input":["Platinum", "Chromium"]
+            },
+            {
+                "reaction_name":"Hyperflurite",
+                "reaction_input":["Promethium", "Vanadium"]
+            },
+            {
+                "reaction_name":"Neo Mercurite",
+                "reaction_input":["Neodymium", "Mercury"]
+            },
+            {
+                "reaction_name":"Platinum Technite",
+                "reaction_input":["Technetium", "Platinum"]
+            },
+            {
+                "reaction_name":"Rolled Tungsten Alloy",
+                "reaction_input":["Platinum", "Tungsten"]
+            },
+            {
+                "reaction_name":"Silicon Diborite",
+                "reaction_input":["Silicates", "Evaporite Deposits"]
+            },
+            {
+                "reaction_name":"Solerium",
+                "reaction_input":["Caesium", "Chromium"]
+            },
+            {
+                "reaction_name":"Sulfuric Acid",
+                "reaction_input":["Evaporite Deposits", "Atmospheric Gases"]
+            },
+            {
+                "reaction_name":"Titanium Chromide",
+                "reaction_input":["Chromium", "Titanium"]
+            },
+            {
+                "reaction_name":"Vanadium Hafnite",
+                "reaction_input":["Hafnium", "Vanadium"]
+            },
+            {
+                "reaction_name":"Prometium",
+                "reaction_input":["Promethium", "Cadmium"]
+            },
+            {
+                "reaction_name":"Promethium Mercurite",
+                "reaction_input":["Promethium", "Mercury"]
+            },
+            {
+                "reaction_name":"Thulium Hafnite",
+                "reaction_input":["Thulium", "Hafnium"]
+            }
+        ],
+        
+        "complex_reactions":[
+            {
+                "reaction_name":"Titanium Carbide",
+                "reaction_input":["Silicon Diborite", "Titanium Chromide"]
+            },
+            {
+                "reaction_name":"Crystalline Carbonide",
+                "reaction_input":["Carbon Polymers", "Crystallite Alloy"]
+            },
+            {
+                "reaction_name":"Fernite Carbide",
+                "reaction_input":["Ceramic Powder", "Fernite Alloy"]
+            },
+            {
+                "reaction_name":"Tungsten Carbide",
+                "reaction_input":["Sulfuric Acid", "Rolled Tungsten Alloy"]
+            },
+            {
+                "reaction_name":"Sylramic Fibers",
+                "reaction_input":["Hexite", "Ceramic Powder"]
+            },
+            {
+                "reaction_name":"Fulleride",
+                "reaction_input":["Platinum Technite", "Carbon Polymers"]
+            },
+            {
+                "reaction_name":"Phenolic Composites",
+                "reaction_input":["Caesarium Cadmide", "Vanadium Hafnite", "Silicon Diborite"]
+            },
+            {
+                "reaction_name":"Nanotransistors",
+                "reaction_input":["Platinum Technite", "Neo Mercurite", "Sulfuric Acid"]
+            },
+            {
+                "reaction_name":"Hypersynaptic Fibers",
+                "reaction_input":["Dysporite", "Vanadium Hafnite", "Solerium"]
+            },
+            {
+                "reaction_name":"Ferrogel",
+                "reaction_input":["Hyperflurite", "Ferrofluid", "Prometium", "Hexite"]
+            },
+            {
+                "reaction_name":"Fermionic Condensates",
+                "reaction_input":["Dysporite", "Fluxed Condensates", "Prometium", "Caesarium Cadmide"]
+            },
+            {
+                "reaction_name":"Nonlinear Metamaterials",
+                "reaction_input":["Ferrofluid", "Titanium Chromide"]
+            },
+            {
+                "reaction_name":"Photonic Metamaterials",
+                "reaction_input":["Thulium Hafnite", "Crystallite Alloy"]
+            },
+            {
+                "reaction_name":"Plasmonic Metamaterials",
+                "reaction_input":["Neo Mercurite", "Fernite Alloy"]
+            },
+            {
+                "reaction_name":"Terahertz Metamaterials",
+                "reaction_input":["Promethium Mercurite", "Rolled Tungsten Alloy"]
+            }
+        ],
+        
+        "unrefined_reactions":[
+            {
+                "reaction_name":"Unrefined Hyperflurite",
+                "reaction_input":["Vanadium", "Chromium"],
+                "reaction_output":["Vanadium", "Hyperflurite"]
+            },
+            {
+                "reaction_name":"Unrefined Ferrofluid",
+                "reaction_input":["Hafnium", "Cadmium"],
+                "reaction_output":["Hafnium", "Ferrofluid"]
+            },
+            {
+                "reaction_name":"Unrefined Prometium",
+                "reaction_input":["Cadmium", "Chromium"],
+                "reaction_output":["Cadmium", "Prometium"]
+            },
+            {
+                "reaction_name":"Unrefined Neo Mercurite",
+                "reaction_input":["Mercury", "Platinum"],
+                "reaction_output":["Mercury", "Neo Mercurite"]
+            },
+            {
+                "reaction_name":"Unrefined Dysporite",
+                "reaction_input":["Mercury", "Cadmium"],
+                "reaction_output":["Mercury", "Dysporite"]
+            },
+            {
+                "reaction_name":"Unrefined Fluxed Condensates",
+                "reaction_input":["Platinum", "Vanadium"],
+                "reaction_output":["Fluxed Condensates"]
+            },
+            {
+                "reaction_name":"Unrefined Vanadium Hafnite",
+                "reaction_input":["Vanadium", "Titanium"],
+                "reaction_output":["Vanadium", "Vanadium Hafnite"]
+            },
+            {
+                "reaction_name":"Unrefined Platinum Technite",
+                "reaction_input":["Platinum", "Cobalt"],
+                "reaction_output":["Platinum", "Platinum Technite"]
+            },
+            {
+                "reaction_name":"Unrefined Solerium",
+                "reaction_input":["Chromium", "Scandium"],
+                "reaction_output":["Chromium", "Solerium"]
+            },
+            {
+                "reaction_name":"Unrefined Caesarium Cadmide",
+                "reaction_input":["Cadmium", "Scandium"],
+                "reaction_output":["Cadmium", "Caesarium Cadmide"]
+            },
+            {
+                "reaction_name":"Unrefined Hexite",
+                "reaction_input":["Evaporite Deposits", "Atmospheric Gases"],
+                "reaction_output":["Hexite"]
+            },
+            {
+                "reaction_name":"Unrefined Rolled Tungsten Alloy",
+                "reaction_input":["Tungsten", "Atmospheric Gases"],
+                "reaction_output":["Tungsten", "Rolled Tungsten Alloy"]
+            },
+            {
+                "reaction_name":"Unrefined Titanium Chromide",
+                "reaction_input":["Titanium", "Evaporite Deposits"],
+                "reaction_output":["Titanium", "Titanium Chromide"]
+            },
+            {
+                "reaction_name":"Unrefined Fernite Alloy",
+                "reaction_input":["Scandium", "Hydrocarbons"],
+                "reaction_output":["Scandium"]
+            },
+            {
+                "reaction_name":"Unrefined Crystallite Alloy",
+                "reaction_input":["Cobalt", "Silicates"],
+                "reaction_output":["Cobalt", "Crystallite Alloy"]
+            },
+            {
+                "reaction_name":"Unrefined Thulium Hafnite",
+                "reaction_input":["Hafnium", "Vanadium"],
+                "reaction_output":["Hafnium", "Thulium Hafnite"]
+            },
+            {
+                "reaction_name":"Unrefined Promethium Mercurite",
+                "reaction_input":["Mercury", "Chromium"],
+                "reaction_output":["Mercury", "Promethium Mercurite"]
+            }
+        ]
+    }
+}
